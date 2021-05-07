@@ -3,12 +3,12 @@ entries:
   selcuktest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-07T08:26:25.048855479Z"
+    created: "2021-05-07T11:33:24.767635015Z"
     description: A Helm chart for Kubernetes
-    digest: 3341d5b9530d491f5315b6f3c70111aac4d5118026488947719eeb066774889d
+    digest: b9e2a6439b98bc6c4f42f430cf780d111d0e508d848bcb903de1fa6f988a2fd3
     name: selcuktest
     type: application
     urls:
-    - https://github.com/selcuk-cavus/helm-charts/releases/download/selcuktest-0.1.0/selcuktest-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-05-07T08:26:24.937862635Z"
+    - https://github.com/selcuk-cavus/helm-charts/releases/download/selcuktest-0.1.1/selcuktest-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-05-07T11:33:24.646735201Z"
